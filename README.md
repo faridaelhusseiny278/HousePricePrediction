@@ -2,6 +2,7 @@
 
 This project aims to estimate a house's price based on a set of features describing the house, 
 such as the number of rooms, size, etc. The dataset used in this project is from a Kaggle competition. 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 
 **Linear Regression Model**
